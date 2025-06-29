@@ -14,8 +14,8 @@ from SONALI.mongo.couples_db import _get_image, get_couple
 POLICE = [
     [
         InlineKeyboardButton(
-            text="|| ˹𖤍 𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗚𝗥𝗢𝗨𝗣𖤍˼ ||",
-            url=f"https://t.me/ClassyMusicRobot?startgroup=true",
+            text="✙ 𝐀ᴅᴅ 𝐌є 𝐈η 𝐘συʀ 𝐆ʀσυᴘ ✙",
+            url=f"https://t.me/Jani_Music_Robot?startgroup=true",
         ),
     ],
 ]
