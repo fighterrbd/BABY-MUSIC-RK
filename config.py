@@ -44,7 +44,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Jani-Music/BABY-MUSIC-RP",
+    "https://github.com/fighterrbd/BABY-MUSIC-RK",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -52,7 +52,7 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
-API_KEY = getenv("API_KEY", '30DxNexGenBots5598df') # youtube song api ke
+API_KEY = getenv("API_KEY", '30DxNexGenBots299cf6') # youtube song api ke
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+6ywGoSkgQZAzMjc1")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT","https://t.me/+6ywGoSkgQZAzMjc1")
@@ -93,21 +93,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/u15ml3.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/ygrz07.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/u15ml3.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/ygrz07.jpg"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/u15ml3.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/u15ml3.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/u15ml3.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/u15ml3.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/u15ml3.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/u15ml3.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/u15ml3.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/u15ml3.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/u15ml3.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/u15ml3.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/ygrz07.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/ygrz07.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/ygrz07.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/ygrz07.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/ygrz07.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/ygrz07.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/ygrz07.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/ygrz07.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/ygrz07.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/ygrz07.jpg"
 
 
 def time_to_seconds(time):
