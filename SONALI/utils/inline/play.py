@@ -81,10 +81,9 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                # text="✰ ᴜᴘᴅᴧᴛє ✰", url="https://t.me/ARISHFA_UPDATE",
           #  )
         #],
-        ],
+        
             InlineKeyboardButton(
                 text="✙ 𝐀ᴅᴅ 𝐌є 𝐈η 𝐘συʀ 𝐆ʀσυᴘ ✙", url="https://t.me/Jani_Music_Robot?startgroup=true",
-            ),
         ],
 
          [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -110,10 +109,9 @@ def stream_markup(_, videoid, chat_id):
                # text="✰ ᴜᴘᴅᴧᴛє ✰", url="https://t.me/THUNDERDEVS",
             #)
         #],
-        ],
+        
             InlineKeyboardButton(
                 text="✙ 𝐀ᴅᴅ 𝐌є 𝐈η 𝐘συʀ 𝐆ʀσυᴘ ✙", url="https://t.me/Jani_Music_Robot?startgroup=true",
-            ),
         ],
 
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
